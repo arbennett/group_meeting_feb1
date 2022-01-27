@@ -1,0 +1,23 @@
+name: group_meeting
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - hypre
+  - gfortran
+  - lapack
+  - openblas
+  - xarray
+  - netcdf4
+  - geopandas
+  - numba
+  - ipykernel
+  - ipython
+  - numpy
+  - cartopy
+  - geopandas
+  - rioxarray
+  - cmake
+  - pip:
+    -pip install git+git://github.com/scrappy/scrappy@master
+    -pip install git+git://github.com/arbennett/parflow@binder/group_meeting
