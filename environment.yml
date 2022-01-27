@@ -19,5 +19,5 @@ dependencies:
   - rioxarray
   - cmake
   - pip:
-    - git@github.com:fsspec/gdrivefs.git@master
-    - git+git://github.com/arbennett/parflow@binder/group_meeting
+    - git+git://github.com/fsspec/gdrivefs.git@master
+    - git+git://github.com/arbennett/parflow.git@binder/group_meeting
