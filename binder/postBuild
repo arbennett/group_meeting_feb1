@@ -1,0 +1,4 @@
+# Get the right parflow version
+git clone -b binder/group_meeting https://github.com/arbennett/parflow.git
+cd parflow/pftools/python
+python setup.py develop

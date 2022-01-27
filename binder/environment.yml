@@ -21,4 +21,3 @@ dependencies:
   - pip
   - pip:
     - git+git://github.com/fsspec/gdrivefs.git@master
-    - git+git://github.com/arbennett/parflow.git@binder/group_meeting
