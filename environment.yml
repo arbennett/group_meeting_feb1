@@ -19,5 +19,5 @@ dependencies:
   - rioxarray
   - cmake
   - pip:
-    -pip install git+git://github.com/scrappy/scrappy@master
-    -pip install git+git://github.com/arbennett/parflow@binder/group_meeting
+    - git+git://github.com/scrappy/scrappy@master
+    - git+git://github.com/arbennett/parflow@binder/group_meeting
