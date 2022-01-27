@@ -19,5 +19,5 @@ dependencies:
   - rioxarray
   - cmake
   - pip:
-    - git+git://github.com/scrappy/scrappy@master
+    - git@github.com:fsspec/gdrivefs.git@master
     - git+git://github.com/arbennett/parflow@binder/group_meeting
